@@ -1,0 +1,21 @@
+{
+    "name": "Derby",
+    "short_name": "Derby",
+    "theme_color": "#f321cb",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "landscape",
+    "start_url": ".",
+    "icons": [
+        {
+            "src":"/AppImages/android/android-launchericon-48-48.png",
+            "sizes": "48x48",
+            "type": "image.png"
+        },
+        {
+            "src":"/AppImages/android/android-launchericon-144-144.png",
+            "sizes": "144x144",
+            "type": "image.png"
+        }
+    ]
+  } 

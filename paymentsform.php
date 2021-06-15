@@ -1,0 +1,1 @@
+<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=&targets-hint=&default-sum=&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&mail=on&hint=&successURL=derby1962.com%2Fthankyou.php&quickpay=shop&account=4100116471439271" width="100%" height="215" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
